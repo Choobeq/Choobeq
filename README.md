@@ -16,7 +16,7 @@
 </div>
 
 ---
-- 🌱 I’m currently learning Python at [![HyperionDev Badge](https://img.shields.io/badge/-HyperionDev-blue)](https://www.hyperiondev.com)
+- 🌱 I’m currently learning at [![WileyEdge Badge](https://img.shields.io/badge/-WileyEdge-blue)](https://www.wileyedge.com)
 - 👯 I’m looking to collaborate on any project that help me practice my new skills in coding.
 - 🤔 I’m looking for help with expanding my portfolio.
 - 💬 Ask me about anything, I'm alway happy to help.
