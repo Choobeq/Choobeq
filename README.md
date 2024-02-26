@@ -3,11 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/tomek-wisniewski">
+  <a href="https://www.linkedin.com/in/tomek-wisniewski">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
   </a>
   <a href="https://www.wiley.com/edge/">
-    <img src="https://static.wayup.com/company_logo/DoQIKz0jyj_20220524.png" alt="WileyEdge" width="100"/>
+    <img src="https://mechomotive.com/wp-content/uploads/2022/09/Wiley-Edge.png" alt="WileyEdge" width="100"/>
   </a>
   <a href="https://www.hyperiondev.com/portfolio/125733/">
     <img src="https://www.hyperiondev.com/static/images/logo.svg" alt="HyperionDev Badge" width="100"/>
@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on any project that helps me practice my new skills in coding.
 - 🤔 I’m looking for help with expanding my portfolio.
 - 💬 Ask me about anything, I'm always happy to help.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tomek-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/tomek-wisniewski)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tomek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tomek-wisniewski)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There are 270 stations on the London Underground, and I visited all of them.
 ---
