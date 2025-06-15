@@ -4,8 +4,7 @@
 </h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tomek-wisniewski">
-    <img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/1.svg" alt="LinkedIn Badge" width="100" />
-    <img src="" alt="LinkedIn Badge" width="100"/>
+    <img src="www.pagetraffic.com%2Fblog%2Fwp-content%2Fuploads%2F2022%2F09%2Flatest-linkedin-logo.png" alt="LinkedIn Badge" width="100" />
   </a>
   <a href="https://www.mthree.com">
     <img src="https://mthree.com/site/assets/files/1444/logo.svg" alt="mThree" width="100"/>
