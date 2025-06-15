@@ -4,12 +4,7 @@
 </h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tomek-wisniewski">
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/home/fg/brand-homepg-guidance-linkedin-logo-dsk-v01.jpg.original.jpg" alt="LinkedIn Badge" width="100" />
-    .crop {
-    width: 50px; 
-    height: 50px; 
-    object-fit: hidden;
-    }
+    <img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/1.svg" alt="LinkedIn Badge" width="100" />
     <img src="" alt="LinkedIn Badge" width="100"/>
   </a>
   <a href="https://www.mthree.com">
