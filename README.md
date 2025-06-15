@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/tomek-wisniewski">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
   </a>
-  <a href="https://www.wiley.com/edge/">
-    <img src="https://mechomotive.com/wp-content/uploads/2022/09/Wiley-Edge.png" alt="WileyEdge" width="100"/>
+  <a href="https://www.mthree.com">
+    <img src="https://mthree.com/site/assets/files/1444/logo.svg" alt="mThree" width="100"/>
   </a>
   <a href="https://www.hyperiondev.com/portfolio/125733/">
     <img src="https://www.hyperiondev.com/static/images/logo.svg" alt="HyperionDev Badge" width="100"/>
